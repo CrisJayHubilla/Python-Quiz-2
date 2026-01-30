@@ -10,3 +10,4 @@ print(f"\nOriginal list: {numbers}")
 numbers.sort(reverse=True)
 
 print(f"Sorted from highest to lowest: {numbers}")
+#Cris Jay Hubilla
